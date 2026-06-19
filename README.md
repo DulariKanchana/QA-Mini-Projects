@@ -34,7 +34,7 @@ A collection of progressive mini automation projects built while learning Playwr
 
 ## Repo Structure
 ```
-QA_Mini-Projects/
+QA-Mini-Projects/
 
 │
 ├── login-automation-saucedemo/
