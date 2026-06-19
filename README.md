@@ -33,7 +33,7 @@ A collection of progressive mini automation projects built while learning Playwr
 ---
 
 ## Repo Structure
-
+```
 QA_Mini-Projects/
 
 │
@@ -49,7 +49,7 @@ QA_Mini-Projects/
 │   └── test-cases.md
 │
 └── README.md
-
+```
 ---
 
 ## Tech Stack
