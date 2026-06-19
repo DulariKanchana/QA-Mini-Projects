@@ -1,0 +1,21 @@
+{
+  "multipleTasks": [
+    "Study for 3 hours",
+    "Complete a mini project",
+    "Automate 2 test cases",
+    "Push code to GitHub",
+    "Organize project files"
+  ],
+
+  "tasksToComplete": [
+    "Complete a mini project",
+    "Push code to GitHub",
+    "Organize project files"
+  ],
+
+  "twoTasks": [
+    "Study for 3 hours",
+    "Automate 2 test cases"
+  ]
+
+}
