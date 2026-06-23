@@ -1,0 +1,85 @@
+{
+
+    "validUser": {
+        "fName": "John",
+        "lName": "Smith",
+        "gender": "Male",
+        "mobileNb": "1234567890"
+    },
+
+    "validUserWithEmail": {
+        "fName": "John",
+        "lName": "Smith",
+        "email": "john.smith@gmail.com",
+        "gender": "Male",
+        "mobileNb": "1234567890"
+    },
+
+    "allValidDetails": {
+        "fullName": "John Smith",
+        "email": "john.smith@gmail.com",
+        "gender": "Male", 
+        "mobile": "1234567890",
+        "birthday": "05 January,2022", 
+        "subject": "Computer Science", 
+        "hobby": "Music",
+        "address": "Flat 302, Shanti Residency", 
+        "stateCity": "Rajasthan Jaipur"
+    },
+
+    "invalidMobile": {
+        "short": "12345",
+        "withLetters": "12a4bc789",
+        "withSpecialChars": "123456789!"
+    },
+
+    "fillSubject": {
+        "maths": "Maths",
+        "english": "English"
+    },
+
+    "state": {
+        "ncr": "NCR",
+        "rajasthan": "Rajasthan"
+    },
+
+    "city": {
+        "jaipur": "Jaipur",
+        "jaiselmer": "Jaiselmer",
+        "delhi": "Delhi",
+        "gurgaon": "Gurgaon",
+        "noida": "Noida"
+    },
+
+    "chooseGender": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+    },
+
+    "chooseHobby": {
+        "music": "Music",
+        "reading": "Reading",
+        "sports": "Sports"
+
+    },
+
+    "nameOnly":{
+        "fName": "John",
+        "lName": "Smith"
+    },
+
+    "dateOfBirth": {
+        "day": 5,
+        "month": 0,
+        "year": 2022
+    },
+
+    "successMessage": "Thanks for submitting the form",
+    "invalidEmail": "john.smithgmail.com",
+    "imagePath": "test-data/Prp.jpg",
+    "birthday": "05 Jan 2022"
+
+
+
+}
