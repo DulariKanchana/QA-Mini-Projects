@@ -13,7 +13,7 @@ A collection of progressive mini automation projects built while learning Playwr
 | **Type** | UI Automation |
 | **V1 Concepts** | Basic navigation, form interaction, assertions |
 | **V2 Concepts** | Page Object Model, `beforeEach` hook, maintainable structure |
-| **Tools** | Playwright + JavaScript |
+| **Tool** | Playwright + JavaScript |
 
 
 📄 [View Test Cases](login-automation-saucedemo/test-cases.md)
@@ -25,10 +25,23 @@ A collection of progressive mini automation projects built while learning Playwr
 | **Site** | https://todomvc.com/examples/react/dist/ |
 | **Type** | UI Automation |
 | **Concepts** | POM, structured test data via JSON, complex locators, multi-step flows, DOM assertions |
-| **Tools** | Playwright + JavaScript |
+| **Tool** | Playwright + JavaScript |
 
 
 📄 [View Test Cases](todo-automation-todomvc/test-cases.md)
+
+
+---
+### Student Registration Automation
+| | |
+|---|---|
+| **Site** | https://demoqa.com/automation-practice-form |
+| **Type** | UI Automation |
+| **Concepts** | POM, structured test data via JSON, dynamic methods with object parameters, date picker interaction, autocomplete handling, chained dropdowns, file upload, mixed positive/negative/boundary testing |
+| **Tool** | Playwright + JavaScript |
+
+
+📄 [View Test Cases](student-registration-demoqa/test-cases.md)
 
 ---
 
@@ -47,7 +60,13 @@ QA-Mini-Projects/
 │   ├── pages/
 │   ├── test-data/
 │   └── test-cases.md
-│
+│ 
+├── student-registration-demoqa/
+│   ├── tests/
+│   ├── pages/
+│   ├── test-data/
+│   └── test-cases.md
+│ 
 └── README.md
 ```
 ---
