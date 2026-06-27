@@ -6,7 +6,7 @@ A collection of progressive mini automation projects built while learning Playwr
 
 ## Projects
 
-### Login Automation
+### Login Flow Test Automation
 | | |
 |---|---|
 | **Site** | https://www.saucedemo.com |
@@ -19,7 +19,7 @@ A collection of progressive mini automation projects built while learning Playwr
 📄 [View Test Cases](login-automation-saucedemo/test-cases.md)
 
 ---
-### Todo App Automation
+### Todo App Test Automation
 | | |
 |---|---|
 | **Site** | https://todomvc.com/examples/react/dist/ |
@@ -32,7 +32,7 @@ A collection of progressive mini automation projects built while learning Playwr
 
 
 ---
-### Student Registration Automation
+### Student Registration Test Automation
 | | |
 |---|---|
 | **Site** | https://demoqa.com/automation-practice-form |
